@@ -1,0 +1,500 @@
+  213  python3 -m pip --version
+  214  python3 -m venv myenv
+  215  source myenv/bin/activate
+  216  pip install python-telegram-bot==13.14
+  217  python3 reminder_bot.py
+  218  pip install urllib3
+  219  pip show urllib3
+  220  python3 reminder_bot.py
+  221  pip install urllib3==1.26.6
+  222  pip show urllib3
+  223  pip install --upgrade python-telegram-bot urllib3
+  224  python3 reminder_bot.py
+  225  pip install python-telegram-bot==13.14 urllib3==1.26.6
+  226  pip show python-telegram-bot
+  227  pip show urllib3
+  228  pip cache purge
+  229  pip install python-telegram-bot==13.14 urllib3==1.26.6
+  230  python3 reminder_bot.py
+  231  source venv/bin/activate
+  232  python reminder_bot.py
+  233  pip install python-telegram-bot
+  234  python3 reminder_bot.py
+  235  python3 -m ensurepip --upgrade
+  236  python3 -m pip install --upgrade pip
+  237  pip3 install python-telegram-bot
+  238  python3 reminder_bot.py
+  239  python3 -m pip install --user python-telegram-bot
+  240  /usr/bin/python3 -m pip install --user python-telegram-bot
+  241  python3 -m pip list
+  242  python3 reminder_bot.py
+  243  /usr/bin/python3 reminder_bot.py
+  244  python3 --version
+  245  python --version
+  246  python3 --version
+  247  python --version
+  248  python3 -m pip install --force-reinstall python-telegram-bot
+  249  python3 -m venv venv
+  250  source venv/bin/activate
+  251  pip install python-telegram-bot
+  252  python reminder_bot.py
+  253  pip install --upgrade python-telegram-bot
+  254  python3 reminder_bot.py
+  255  pip install python-telegram-bot --upgrade
+  256  pip install python-telegram-bot --upgrade
+  257  python3 reminder_bot.py
+  258  ssh -p 65002 u392148004@45.84.205.179
+  259  pip install python-telegram-bot --upgrade
+  260  python3 reminder_bot.py
+  261  source venv/bin/activate
+  262  pip install python-telegram-bot --upgrade
+  263  python3 reminder_bot.py
+  264  pythin --version
+  265  python --version
+  266  command -v python
+  267  command -v python3
+  268  -v python
+  269  python --version
+  270  command -v python3
+  271  python --version
+  272  python3 --version
+  273  git
+  274  cat /proc/cpuinfo
+  275  cd
+  276  ssh-keygen
+  277  cat ./ssh/id_ed25519.pub
+  278  ls -a
+  279  cat ./ssh/id_
+  280  cat .ssh/id_ed25519.pub
+  281  ssh ec2-user@linux.itcareerhub.de
+  282  ssh -i ~/.ssh/id_ED25519 ec2-user@linux.itcareerhub.de
+  283  ssh -i ~/.ssh/id_ED25519 ec2-user@linux.itcareerhub.de
+  284  scp xhumanalex@linux.itcareerhub.de:/tmp/xhumanalex_file.txt .
+  285  scp -i ~/.ssh/id_ED25519 ec2-user@linux.itcareerhub.de:/tmp/xhumanalex_file.txt ~/Downloads/
+  286  ssh -i ~/.ssh/id_ED25519 ec2-user@linux.itcareerhub.de
+  287  cd home
+  288  cd
+  289  cat .ssh
+  290  cd .ssh
+  291  ls
+  292  id_ed25519.pub
+  293  ssh-ed
+  294  cat .ssh/id_ed25519.pub
+  295  cd
+  296  cat .ssh/id_ed25519.pub
+  297  св
+  298  cd
+  299  mkdir -p linux
+  300  cd linux
+  301  ls
+  302  echo "# linux" >> README.md
+  303  ls
+  304  cat README.md
+  305  git init
+  306  git status
+  307  git add .
+  308  git status
+  309  git commit -m "added file README.md using git add"
+  310  git status
+  311  git remote add origin git@github.com:newbusinessman1/linux.git
+  312  git push -u origin main
+  313  git status
+  314  git push -u origin main
+  315  git status
+  316  mkdir -p HW_10
+  317  git status
+  318  touch HW_10/file.txt 
+  319  git status
+  320  git add .
+  321  git status
+  322  git commit -m "Added repository HW_10 and file.txt"
+  323  git push
+  324  ls-la
+  325  ls -la
+  326  scp -i ~/.ssh/id_ED25519 ec2-user@linux.itcareerhub.de:/tmp/file.txt ~/Downloads/
+  327  mkdir git_intro
+  328  cd /git_intro
+  329  cd git_intro
+  330  git init
+  331  cd ~/git_intro
+  332  cp "/Users/newbusinessman/Documents/ITCAREERHUB/Linux/image.jpg" .
+  333  cp "/Users/newbusinessman/Documents/ITCAREERHUB/Linux/IMG_1383.jpeg" .
+  334  git add .
+  335  git commit -m "Добавил изображение"
+  336  git remote add origin https://github.com/newbusinessman1/git_intro.git
+  337  git branch -M main
+  338  git push -u origin main
+  339  git branch -M main
+  340  git push -u origin main
+  341  git branch -M main
+  342  git push -u origin main
+  343  git branch -M main
+  344  git push -u origin main
+  345  git config --global credential.helper cache
+  346  git branch -M main
+  347  git push -u origin main
+  348  git branch -M main
+  349  git push -u origin main
+  350  git config --global credential.helper cache
+  351  git init
+  352  exit
+  353  ssh -i ~/.ssh/id_ED25519 ec2-user@linux.itcareerhub.de
+  354  cd
+  355  cd ITCAREERHUB
+  356  cd /Users/newbusinessman/Documents
+  357  cd ITCAREERHUB
+  358  cd Linux
+  359  cd
+  360  cd /User/newbusinessman/Documents
+  361   cd /Users/newbusinessman/Documents
+  362  cd ITCAREERHUB
+  363  cd Linux
+  364  mkdir 08.04
+  365  cd 08.04
+  366  echo "# 08.04" >> README.md
+  367  git init
+  368  git branch -M main
+  369  git branch
+  370  git status
+  371  git add .
+  372  git status
+  373  git commit -m "first"
+  374  git remote add origin git@github.com:newbusinessman1/08.04.git
+  375  git remote -v
+  376  git push -u origin main
+  377  git status
+  378  git add 888.txt
+  379  git status
+  380  git commit -m "888 added"
+  381  git status
+  382  git push -u origin main
+  383  git status
+  384  git add 888.txt
+  385  git commit -m "added text"
+  386  git push
+  387  git status
+  388  git log
+  389  git log --oneline
+  390  git branch´
+  391  git branch
+  392  git checkout -b test
+  393  git branch
+  394  touch version1.txt
+  395  git status
+  396  git commit -am "Added test version1.txt"
+  397  git status
+  398  git add version1.txt
+  399  git status
+  400  git commit -m "Added test version as version1.txt"
+  401  git checkout main
+  402  git branch
+  403  git status
+  404  git merge test
+  405  git status
+  406  git log
+  407  git log --online
+  408  git log -- online
+  409  git log --oneline
+  410  git log --oneline --graph --all --decorate
+  411  git log --online --graph
+  412  git log --oneline --graph
+  413  git log --online --graph --all --decorate
+  414  git push
+  415  git checkout test
+  416  git push -u origin test
+  417  git checkout main
+  418  git branch -D test
+  419  git branch
+  420  nano .gitignore
+  421  git status
+  422  git add .gitignore
+  423  git add .gitignore
+  424  git commit -m ".gititgnore"
+  425  git push
+  426  touch 777.txt
+  427  git add .
+  428  git commit -m "Added 777.txt"
+  429  git push --force
+  430  git log --oneline
+  431  git checkout d24fb9b
+  432  git add .gitignore
+  433  git commit -m "Added DS_Store file to gitignore"
+  434  git push
+  435  git log --online
+  436  git log --oneline
+  437  git checkout d24fb9b
+  438  git checkout force d24fb9b
+  439  git add .gitignore
+  440  git -m "Corrected error in gitignore file"
+  441  git commit -m "Corrected error in gitignore"
+  442  git push -u origin main
+  443  git checkout d24fb9b
+  444  git checkout main
+  445  git rm .DS_Store
+  446  git rm -f .DS_Store
+  447  git push
+  448  exit
+  449  ssh -i ~/.ssh/id_ED25519 ec2-user@linux.itcareerhub.de
+  450  git branch
+  451  rm -rf .git
+  452  cd /Users/newbusinessman/Documents/ITCAREERHUB
+  453  cd Linux
+  454  mkdir git-conflict-demo
+  455  cd git-conflict-demo/
+  456  git init
+  457  git branch
+  458  git branch
+  459  git branch -M main
+  460  git branch
+  461  echo "П
+  462  tree
+  463  cd
+  464  echo "П
+  465  tree
+  466  touch file.txt
+  467  echo "П
+  468  echo "П
+  469  touch file.txt
+  470  nano file.txt
+  471  git commit -m "init: добавлен приветственный текст"
+  472  git checkout -b feature
+  473  git branch -M feature
+  474  echo "Эта строка добавлена в ветке feature" >> file.txt
+  475  nano file.txt
+  476  git commit -am "добавлена строка в ветке фича"
+  477  git checkout main
+  478  git branch main
+  479  git checkout main
+  480  git log
+  481  git checkout -b main
+  482  git branch
+  483  git branch
+  484  git checkout feature
+  485  ls
+  486  git switch -c feature 
+  487  bit branch
+  488  git branch
+  489  bit branch -b main
+  490  cd branch 
+  491  git branch
+  492  git branch -b main
+  493  git branch main
+  494  git branch feature
+  495  git branch -a
+  496  git switch -c feature
+  497  git switch -c main
+  498  git branch -a
+  499  ssh -i ~/.ssh/id_ED25519 ec2-user@linux.itcareerhub.de
+  500  cd /Users/newbusinessman/Documents/ITCAREERHUB
+  501  cd Linux
+  502  cd git-conflict-demo
+  503  git branch
+  504  ls -la
+  505  rm -rf .git file.txt
+  506  git init
+  507  echo "Hello world" > file.txt
+  508  git add .
+  509  git commit -m "File created"
+  510  git checkout -b second
+  511  git branch
+  512  eho "Hi" >> file.txt
+  513  echo "Hi" >> file.txt
+  514  git add .
+  515  git commit -m "added text"
+  516  git merge second
+  517  nano file.txt
+  518  echo "hello mars" >> file.txt
+  519  git switch main
+  520  git checkout main
+  521  git branch
+  522  git checkout main
+  523  git add .
+  524  git commit -m "Saved changes"
+  525  git switch main
+  526  git status
+  527  git branch
+  528  git checkout main
+  529  git rm DS_Store
+  530  git rm .DS.Store
+  531  git add .DS_Store
+  532  git rm .DS_Store
+  533  git commit -m "Удалил .DS_Store"
+  534  git switch main
+  535  echo "Hi i Am Oleksandr" >> file.txt
+  536  nano file.txt
+  537  git merge
+  538  nano file.txt
+  539  git checkout second
+  540  git reset --hard head-1
+  541  git reset --hard HEAD~1
+  542  git add .DS_Store
+  543  git add file.txt
+  544  git rm .DS_Store
+  545  git commit -m "Удалил .DS_Store"
+  546  git switch second
+  547  git branch
+  548  git merge
+  549  git merge <имя_ветки>
+  550  git merge main
+  551  git merge second
+  552  nano file.txt
+  553  git log --oneline --graph --all
+  554  git reset --hard HRAD~
+  555  git add file.txt
+  556  git rebase --continue 
+  557  git log --oneline --decorate
+  558  git branch
+  559  git checkout main
+  560  nano .gitignore
+  561  git add .gitignore
+  562  git commit -m "Добавил .gitignore и убрал .DS_Store из репозитория"
+  563  git branch
+  564  git checkout main
+  565  git merge --abort
+  566  git rm --cached .DS_Store
+  567  git add .gitignore
+  568  git commit -m "Удалил .DS_Store из репозитория и добавил в .gitignore"
+  569  git checkout main
+  570  rm .DS_Store
+  571  git checkout main
+  572  # macOS system files
+  573  .DS_Store
+  574  .AppleDouble
+  575  .LSOverride
+  576  # Icon files
+  577  Icon?
+  578  # Thumbnails
+  579  ._*
+  580  # Files that might appear on external disks
+  581  .Spotlight-V100
+  582  .Trashes
+  583  git switch main
+  584  git config --global core.excludesfile ~/.gitignore_globa
+  585  git config --global core.excludesfile ~/.gitignore_global
+  586  nano ~/.gitignore_global
+  587  git checkout main
+  588  git checkout second
+  589  git checkout main
+  590  git checkout -c feature
+  591  git branch feature
+  592  git branch
+  593  git checkout feature
+  594  echo "Something" >> test.txt
+  595  git branch 
+  596  git status
+  597  git add .
+  598  git rebase --continue
+  599  git status
+  600  git rebase --continue
+  601  yes
+  602  git commit -m "SSJSJSJ"
+  603  git log
+  604  q
+  605  git commit --amend
+  606  git log
+  607  git commit --amend
+  608  git log
+  609  git commit --amend
+  610  git log
+  611  git status
+  612  ls -la
+  613  git log —oneline
+  614  git log —oneline
+  615  git log --online
+  616  git log --oneline
+  617  git reset --soft HEAD~1
+  618  hit status
+  619  git status
+  620  git log --oneline
+  621  git commit -m "last update"
+  622  git reset --mixed HEAD~1
+  623  git log --oneline
+  624  git status
+  625  git add .
+  626  git commit -m "last update"
+  627  git reset --hard HEAD~1
+  628  ls -l
+  629  git checkout main
+  630  echo "Today is fantastic day" >> file.txt
+  631  git add .
+  632  git checkout -- file.txt
+  633  cat file.txt
+  634  git commit -m "Added text file.txt"
+  635  git checkout -- file.txt
+  636  cat file.txt
+  637  git log --oneline
+  638  git revert 603faee
+  639  git branch
+  640  nano .gitignor
+  641  nano .gitignor
+  642  git commit -am "added git ignor"
+  643  touch 1.jpg
+  644  git status
+  645  git log --oneline
+  646  git add .
+  647  git status
+  648  git commit -am "added git ignore 2"
+  649  git remote add origin git@github.com:newbusinessman1/git-conflict-demo.git
+  650  git remote -v
+  651  git push -u origin main
+  652  tree
+  653  ls -la
+  654  git config --get core.excludesfile
+  655  cd
+  656  cat .gitignore_global
+  657  cd /Users/newbusinessman/Documents/ITCAREERHUB/Linux
+  658  cd git-conflict-demo
+  659  mv .gitignor .gitignore
+  660  git status
+  661  git add .gitignore
+  662  git commit -m "added gitignor"
+  663  git push
+  664  git pull 
+  665  git status
+  666  git commit -m "deleted file ds store"
+  667  git add .
+  668  git status
+  669  git commit -m "deleted file ds store"
+  670  git log --oneline
+  671  ls -la
+  672  git push
+  673  git pull origin main
+  674  git config pull.rebase false
+  675  git pull origin main
+  676  git status
+  677  git add .
+  678  git commit -m "Created git pull"
+  679  ls -la
+  680  cd /Users/newbusinessman/Documents/ITCAREERHUB
+  681  cd Linux
+  682  mkdir home_work_12
+  683  cd home_work_12
+  684  git init
+  685  git remote add origin git@github.com:newbusinessman1/home_work_12.git
+  686  cd Linux
+  687  cd /Users/newbusinessman/Documents/ITCAREERHUB
+  688  cd Linux
+  689  gh repo clone newbusinessman1/git-practice
+  690  git clone https://github.com/newbusinessman1
+  691  git clone https://github.com/newbusinessman1/git-practice.git
+  692  cd git-practice
+  693  git checkout -b feature
+  694  git branch
+  695  touch README.md
+  696  git status
+  697  ls -la
+  698  -ls -a
+  699  ls
+  700  nano README.md
+  701  nano .gitignore
+  702  git add .
+  703  git commit -m "Initial changes in feature branch"
+  704  git push -u origin feature
+  705  git branch
+  706  git commit --amend -m "ammend"
+  707  git push --force
+  708  git checkout main
+  709  git pull
+  710  git merge feature
+  711  git push
+  712  history > history.txt
